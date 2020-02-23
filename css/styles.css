@@ -4,6 +4,7 @@
 h1 {
   margin:0;
   padding-top:50px;
+  font-family: "Pacifico",sans-serif;
   font-size:300%;
   color:#b21f66;
 }
@@ -17,7 +18,7 @@ h3 {
 body {
   margin:0;
   text-align: center;
-  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-family:'Kanit', sans-serif;
 }
 p {
   font-size: 1.1em;
